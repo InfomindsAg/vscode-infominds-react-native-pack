@@ -1,0 +1,15 @@
+{
+    "name": "infominds-react-native-extension-pack",
+    "displayName": "Infominds React Native Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
