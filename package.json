@@ -2,7 +2,13 @@
     "name": "infominds-react-native-extension-pack",
     "displayName": "Infominds React Native Extension Pack",
     "description": "",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "InfomindsAG",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/InfomindsAg/vscode-infominds-react-native-pack.git"
+    },
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -10,6 +16,35 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "formulahendry.auto-close-tag",
+        "aaron-bond.better-comments",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "auchenberg.vscode-browser-preview",
+        "streetsidesoftware.code-spell-checker",
+        "naumovs.color-highlight",
+        "codemooseus.vscode-devtools-for-chrome",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "ecmel.vscode-html-css",
+        "kisstkondoros.vscode-gutter-preview",
+        "wix.vscode-import-cost",
+        "MariusAlchimavicius.json-to-ts",
+        "redhat.java",
+        "PKief.material-icon-theme",
+        "eg2.vscode-npm-script",
+        "howardzuo.vscode-npm-dependency",
+        "herrmannplatz.npm-dependency-links",
+        "christian-kohler.npm-intellisense",
+        "traBpUkciP.vscode-npm-scripts",
+        "alefragnani.project-manager",
+        "zhouronghui.propertylist",
+        "jundat95.react-native-snippet",
+        "msjsdiag.vscode-react-native",
+        "cssho.vscode-svgviewer",
+        "mariomatheu.syntax-project-pbxproj",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "lihui.vs-color-picker",
+        "funkyremi.vscode-google-translate",
+        "redhat.vscode-yaml"
     ]
 }
