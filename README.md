@@ -4,8 +4,6 @@ This extension pack includes a set of popular extensions for react development i
 ## Extensions Included
 - [Auto Close Tag]
 - [Better Comments]
-- [Bracket Pair Colorizer 2]
-- [Browser Preview]
 - [Code Spell Checker]
 - [Color Highlight]
 - [DevTools for Chrome]
@@ -15,7 +13,6 @@ This extension pack includes a set of popular extensions for react development i
 - [Image preview]
 - [Import Cost]
 - [JSON to TS]
-- [Language Support for Java by Red Hat]
 - [Material Icon Theme]
 - [npm]
 - [Npm Dependency]
@@ -36,8 +33,6 @@ This extension pack includes a set of popular extensions for react development i
 
 [Auto Close Tag]: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 [Better Comments]: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments 
-[Bracket Pair Colorizer 2]: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2 
-[Browser Preview]: https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview 
 [Code Spell Checker]: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker 
 [Color Highlight]: https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight 
 [DevTools for Chrome]: https://marketplace.visualstudio.com/items?itemName=codemooseus.vscode-devtools-for-chrome 
@@ -47,7 +42,6 @@ This extension pack includes a set of popular extensions for react development i
 [Image preview]: https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview 
 [Import Cost]: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost 
 [JSON to TS]: https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts 
-[Language Support for Java by Red Hat]: https://marketplace.visualstudio.com/items?itemName=redhat.java 
 [Material Icon Theme]: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme 
 [npm]: https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script 
 [Npm Dependency]: https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-npm-dependency 

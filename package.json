@@ -2,7 +2,7 @@
     "name": "infominds-react-native-extension-pack",
     "displayName": "Infominds React Native Extension Pack",
     "description": "",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "InfomindsAG",
     "license": "MIT",
     "repository": {
@@ -15,11 +15,9 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "formulahendry.auto-close-tag",
         "aaron-bond.better-comments",
-        "CoenraadS.bracket-pair-colorizer-2",
-        "auchenberg.vscode-browser-preview",
         "streetsidesoftware.code-spell-checker",
         "naumovs.color-highlight",
         "codemooseus.vscode-devtools-for-chrome",
@@ -29,7 +27,6 @@
         "kisstkondoros.vscode-gutter-preview",
         "wix.vscode-import-cost",
         "MariusAlchimavicius.json-to-ts",
-        "redhat.java",
         "PKief.material-icon-theme",
         "eg2.vscode-npm-script",
         "howardzuo.vscode-npm-dependency",
